@@ -1,0 +1,18 @@
+﻿[
+  {
+    "outputFile": "wwwroot/css/site.css",
+    "inputFile": "wwwroot/css/site.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/scss/cores/_general.css",
+    "inputFile": "wwwroot/css/scss/cores/_general.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/scss/sections/_showcase.css",
+    "inputFile": "wwwroot/css/scss/sections/_showcase.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/scss/_cores.css",
+    "inputFile": "wwwroot/css/scss/_cores.scss"
+  }
+]
